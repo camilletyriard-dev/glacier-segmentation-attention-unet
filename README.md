@@ -114,6 +114,7 @@ confidence intervals, and confusion matrix analysis.
 
 ## Repository Structure
 
+```text
 ├── notebooks/
 │   ├── 01_replication.ipynb          # Full replication of John & Zhang (2022)
 │   ├── 02_problem_formulation.ipynb  # Glacier monitoring context, impact, scalability
@@ -146,6 +147,7 @@ confidence intervals, and confusion matrix analysis.
 ├── requirements.txt                  # Minimal pip-compatible dependencies
 ├── CITATION.cff
 └── LICENSE
+```
 
 ---
 
