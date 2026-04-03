@@ -2,7 +2,6 @@
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-311/)
 [![TensorFlow 2.19](https://img.shields.io/badge/TensorFlow-2.19-orange.svg)](https://www.tensorflow.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Weights-yellow)](https://huggingface.co/camilletyriard/glacier-segmentation-attention-unet)
 
 Semantic segmentation of glacier extent from Sentinel-2 multispectral imagery
@@ -26,6 +25,11 @@ This work investigates whether the attention-gated U-Net architecture proposed f
 tropical deforestation detection by John & Zhang (2022) can be successfully transferred
 to high-alpine glacier segmentation — a domain with fundamentally different spectral
 signatures, terrain characteristics, and label distributions.
+
+## Accompanying Technical Poster
+
+This repository is accompanied by a technical poster presenting the methodology and main results of an Attention U-Net framework for glacier segmentation.  
+**Poster:** [`docs/poster.pdf`](docs/poster.pdf)
 
 **Two research questions are addressed:**
 
@@ -322,9 +326,3 @@ This work builds on:
   doi     = {10.1016/j.jag.2022.102685}
 }
 ```
-
----
-
-## License
-
-[MIT License](LICENSE). The `attention_unet` submodule retains the license of its original authors.
