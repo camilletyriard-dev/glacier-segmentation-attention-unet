@@ -145,8 +145,7 @@ confidence intervals, and confusion matrix analysis.
 │
 ├── environment.yml                   # Full Conda environment specification
 ├── requirements.txt                  # Minimal pip-compatible dependencies
-├── CITATION.cff
-└── LICENSE
+└── CITATION.cff
 ```
 
 ---
