@@ -1,0 +1,12 @@
+tensorflow>=2.19
+keras>=3.0
+numpy
+pandas
+pillow
+matplotlib
+scikit-learn
+rasterio
+pyunpack
+requests
+jupyter
+ipykernel

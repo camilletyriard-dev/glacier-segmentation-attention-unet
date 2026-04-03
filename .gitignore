@@ -1,0 +1,41 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+env/
+
+# Model weights — host on Zenodo or Google Drive
+*.hdf5
+*.h5
+*.pt
+*.pth
+*.npy
+
+# Raw data — Sentinel-2 imagery not committed to git
+data/raw/
+data/processed/
+data_switzerland/
+train/
+test/
+val/
+*.tif
+*.jp2
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

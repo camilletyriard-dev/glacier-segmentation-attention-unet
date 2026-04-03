@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Tyriard
+    given-names: Camille
+title: "Attention U-Net for Glacier Extent Segmentation in the Swiss Alps"
+version: 1.0.0
+date-released: 2026-01-01
+url: "https://github.com/camilletyriard-dev/glacier-segmentation-attention-unet"
+license: MIT
