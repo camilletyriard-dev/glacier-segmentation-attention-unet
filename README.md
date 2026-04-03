@@ -140,12 +140,8 @@ confidence intervals, and confusion matrix analysis.
 │   ├── poster.pdf                    # Technical poster
 │   └── figures/                      # Images referenced in notebooks and README
 │
-├── data/
-│   └── README.md                     # Data acquisition and preprocessing instructions
-│
-├── environment.yml                   # Full Conda environment specification
-├── requirements.txt                  # Minimal pip-compatible dependencies
-└── CITATION.cff
+└── data/
+    └── README.md                     # Data acquisition and preprocessing instructions
 ```
 
 ---
