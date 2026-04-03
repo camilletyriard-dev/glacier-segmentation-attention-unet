@@ -11,6 +11,10 @@ then transfers the architecture to binary glacier/non-glacier segmentation over 
 Jungfrau–Aletsch region of the Swiss Alps — achieving a test IoU of 0.9839.
 
 ---
+## Accompanying Technical Poster
+
+This repository is accompanied by a technical poster presenting the methodology and main results of an Attention U-Net framework for glacier segmentation.  
+**Poster:** [`docs/poster.pdf`](docs/poster.pdf)
 
 ## Overview
 
@@ -26,10 +30,6 @@ tropical deforestation detection by John & Zhang (2022) can be successfully tran
 to high-alpine glacier segmentation — a domain with fundamentally different spectral
 signatures, terrain characteristics, and label distributions.
 
-## Accompanying Technical Poster
-
-This repository is accompanied by a technical poster presenting the methodology and main results of an Attention U-Net framework for glacier segmentation.  
-**Poster:** [`docs/poster.pdf`](docs/poster.pdf)
 
 **Two research questions are addressed:**
 
